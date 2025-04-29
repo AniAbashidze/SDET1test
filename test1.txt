@@ -1,0 +1,4 @@
+Git checkout -b "name"
+Git checkout
+Git status
+Git add .
